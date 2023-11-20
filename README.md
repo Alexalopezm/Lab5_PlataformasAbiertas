@@ -7,6 +7,6 @@
 - Manfred Soza Garcia, B97755
 - Frank Wang Wu, B57946
 
-- # Código `LAB5,py`
+- # Código `LAB5.py`
 
   
