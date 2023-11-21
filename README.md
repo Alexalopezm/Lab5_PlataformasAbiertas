@@ -13,3 +13,16 @@ Descripción: El presente laboratorio se quiere realizar una manipulación de im
 ## Paquetes importados 
 ### argparse
 Un módulo que facilita la creación de interfaces de línea de comandos. En este archivo se utiliza para analizar los argumentos pasados por la línea de comandos.
+
+### PIL (Python Imaging Library)
+Es una biblioteca que se utiliza para manipular imágenes, para abrir y mostrar imágenes en formato de mapa de bits.
+
+### matplotlib.pyplot
+Es una biblioteca de visualización de datos en Python, que se utilizaría en este contexto para abrir y mostrar imágenes.
+
+### cv2 (OpenCV)
+Es una biblioteca de visión por computadora que proporciona una amplia gama de herramientas para procesar imágenes y videos, por lo que este cargar y mostrar imágenes en ventanas.
+
+## Funciones 
+### clase 'ImageProcessor'
+#### 1. '__init__(self, library)'
