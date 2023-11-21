@@ -26,3 +26,9 @@ Es una biblioteca de visión por computadora que proporciona una amplia gama de 
 ## Funciones 
 ### clase 'ImageProcessor'
 #### 1. '__init__(self, library)'
+El constructor de la clase ImageProcessor que inicializa un objeto ImageProcessor con la biblioteca especificada ('PIL', 'Matplotlib', 'OpenCV').
+
+#### 2. 'mostrar_imagen(self, ruta)'
+Método para mostrar la imagen utilizando la biblioteca especificada.
+
+### Funciones de visualización de imágenes para cada biblioteca
