@@ -32,3 +32,11 @@ El constructor de la clase ImageProcessor que inicializa un objeto ImageProcesso
 Método para mostrar la imagen utilizando la biblioteca especificada.
 
 ### Funciones de visualización de imágenes para cada biblioteca
+#### 1. 'mostrar_imagen_pil(self, ruta)'
+Utiliza la biblioteca PIL para cargar y mostrar la imagen en una ventana nueva.
+
+#### 2. mostrar_imagen_matplotlib(self, ruta)
+Utiliza la biblioteca Matplotlib para cargar y mostrar la imagen en una ventana utilizado usando 'imshow()' y 'show()' de Matplotlib.
+
+#### 3. mostrar_imagen_opencv(self, ruta)
+Utiliza el OpenCV para cargar y mostrar la imagen en una ventana usando los comandos 'imread()', 'imshow()', 'waitkey()', 'destroyAllWindows()' de OpenCV.
