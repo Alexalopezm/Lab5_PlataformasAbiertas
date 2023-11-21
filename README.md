@@ -8,5 +8,8 @@
 - Frank Wang Wu, B57946
 
 - # Código `LAB5.py`
+Descripción: El presente laboratorio se quiere realizar una manipulación de imágenes que permite abrir una imagen y hacerlo en una display. Por lo que se va a utilizar una serie de bibliotecas para abrir dicha imagen.
 
-  
+## Paquetes importados 
+### argparse
+Un módulo que facilita la creación de interfaces de línea de comandos. En este archivo se utiliza para analizar los argumentos pasados por la línea de comandos.
