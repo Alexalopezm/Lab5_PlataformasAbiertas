@@ -6,7 +6,7 @@ import cv2
 
 
 class ImageProcessor:
-    def _init_(self, library):
+    def __init__(self, library):
         # Inicialización de la clase ImageProcessor con la biblioteca especificada.
         self.library = library
 
